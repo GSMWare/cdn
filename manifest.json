@@ -1,0 +1,16 @@
+{
+  "name": "GSMWARE",
+  "short_name": "GSMWARE",
+  "description": "GSMWARE shares Official box-setup files, drivers, solutions, programs, tools, and verified crack for GSM technicians.",
+  "icons": [
+    { "src": "https://cdn.gsmware.com/favicon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "https://cdn.gsmware.com/favicon-384.png", "sizes": "384x384", "type": "image/png" },
+    { "src": "https://cdn.gsmware.com/favicon-512.png", "sizes": "512x512", "type": "image/png" }
+  ],
+  "theme_color": "#4b6584",
+  "background_color": "#4b6584",
+  "display": "standalone",
+  "start_url": "https://www.gsmware.com/",
+  "scope": "/",
+  "orientation": "portrait"
+}
