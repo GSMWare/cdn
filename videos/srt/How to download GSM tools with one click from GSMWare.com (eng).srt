@@ -1,0 +1,141 @@
+1
+00:00:00,000 --> 00:00:02,960
+Welcome to GSMware dot com site.
+
+2
+00:00:02,960 --> 00:00:04,080
+In this video,
+
+3
+00:00:04,080 --> 00:00:07,520
+you will learn how to download
+GSM tools from the GSMware dot
+
+4
+00:00:07,520 --> 00:00:09,200
+com site with one click.
+
+5
+00:00:09,200 --> 00:00:12,360
+So let's start the process
+of downloading the tools.
+
+6
+00:00:13,055 --> 00:00:17,895
+First, you need to go to the gsmware
+dot com site in your web browser.
+
+7
+00:00:19,135 --> 00:00:22,095
+Once the entire website is
+loaded into your web browser,
+
+8
+00:00:22,095 --> 00:00:24,455
+go to the tool post
+you want to download.
+
+9
+00:00:26,830 --> 00:00:28,590
+After opening the tool post,
+
+10
+00:00:28,590 --> 00:00:32,150
+scroll down the post and go
+to the download links section.
+
+11
+00:00:35,150 --> 00:00:37,550
+As soon as you reach the
+download section you will see
+
+12
+00:00:37,550 --> 00:00:40,815
+the download links, click
+on the download button.
+
+13
+00:00:40,815 --> 00:00:42,095
+As soon as you click,
+
+14
+00:00:42,095 --> 00:00:44,895
+the download process will start
+in your web browser or in the
+
+15
+00:00:44,895 --> 00:00:46,455
+IDM application.
+
+16
+00:00:51,230 --> 00:00:54,950
+If your web browser is using
+an ad blocking extension,
+
+17
+00:00:56,590 --> 00:00:59,150
+then the download links will be
+hidden and you will find the ad
+
+18
+00:00:59,150 --> 00:01:00,190
+blocker detected.
+
+19
+00:01:00,190 --> 00:01:02,925
+Turn off ad blocking
+to get download links.
+
+20
+00:01:02,925 --> 00:01:05,685
+Notification in the
+download section.
+
+21
+00:01:06,125 --> 00:01:08,605
+You need to turn off the ad
+blocker extension for the
+
+22
+00:01:08,605 --> 00:01:13,685
+GSMware dot com site
+and refresh the webpage.
+
+23
+00:01:13,885 --> 00:01:16,285
+Then download links will come
+and you can download the tool
+
+24
+00:01:16,285 --> 00:01:18,645
+by clicking on the
+download now button.
+
+25
+00:01:22,870 --> 00:01:26,470
+Note, if you are using an older
+version of the IDM program,
+
+26
+00:01:26,470 --> 00:01:29,430
+then the download will not work
+properly or you have another problem,
+
+27
+00:01:29,430 --> 00:01:32,070
+we recommend that you use
+the latest version of the IDM
+
+28
+00:01:32,070 --> 00:01:34,190
+application to download tools.
+
+29
+00:01:34,215 --> 00:01:37,975
+We hope you find this video
+helpful in downloading GSM tools.
+
+30
+00:01:37,975 --> 00:01:41,055
+Thank you for watching
+the video. Good luck!
